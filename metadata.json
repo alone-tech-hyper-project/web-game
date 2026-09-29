@@ -1,0 +1,6 @@
+{
+  "name": "Isopolis Farm - Low-Poly Life & Farming Simulator",
+  "description": "Fixed isometric 3D low-poly life and farming simulation game optimized for mobile & web. Features customizable texture packs, crop farming, livestock, villager interactions, day/night cycles, and high-performance WebGL rendering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#15803d" />
+      <stop offset="100%" stop-color="#0f172a" />
+    </linearGradient>
+    <linearGradient id="sprout" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#facc15" />
+      <stop offset="100%" stop-color="#22c55e" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="128" fill="url(#bg)" />
+  <!-- Soil Mound -->
+  <ellipse cx="256" cy="380" rx="160" ry="48" fill="#5c382e" />
+  <ellipse cx="256" cy="370" rx="140" ry="36" fill="#8d5b4c" />
+  <!-- Rice Sprout / Farm Icon -->
+  <path d="M256 370 Q256 220 330 150 Q310 240 256 280 Q202 240 182 150 Q256 220 256 370 Z" fill="url(#sprout)" />
+  <circle cx="256" cy="140" r="28" fill="#facc15" />
+</svg>
